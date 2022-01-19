@@ -10,7 +10,7 @@ function reloj(){
   const hora=(
     <div>
       <h3>-----------------------------------------------------</h3>
-      <h1>Hola son las: {
+      <h1>Hola la hora es las: {
           new Date().toLocaleTimeString()
         }
       </h1>
